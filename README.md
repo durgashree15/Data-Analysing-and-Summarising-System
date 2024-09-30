@@ -1,7 +1,7 @@
 # Data-Analysing-and-Summarising-System
 A simple prototype of a system that performs required statistical computation on the dataset provided. The project was developed as part of coursework in **Introduction to Programming in Java** at VIT, Vellore.
 
-### **Apache NetBeans** was used to implement the project
+### **Apache NetBeans** was used to implement the project.
 
 Below attached are sample images for usecases in the projects:
 
